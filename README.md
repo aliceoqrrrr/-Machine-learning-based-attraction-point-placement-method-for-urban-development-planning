@@ -38,4 +38,4 @@ The second and third stages represent the iterative generation process described
 
 ![image](https://github.com/user-attachments/assets/b948a2b1-c2f6-4b7f-a768-ba20fbd2582d)
 
-
+A more detailed description of the method and its operation, as well as the results obtained and their interpretations, can be found in the documents entitled “Method”.
