@@ -27,6 +27,15 @@ The final stage involves defining specific service types, considering the previo
 
 The tiered structure of the method enables a gradual transition from abstract planning to concrete solutions, minimizing the risk of inefficient space utilization.
 
+Key Stages of the Method
+The method consists of four main stages:
+1. Territorial data collection
+2. Processing with a graph neural network
+3. Supervised machine learning analysis
+4. Generating proposals for the spatial distribution of attraction points
+
+The second and third stages represent the iterative generation process described above.
+
 ![image](https://github.com/user-attachments/assets/b948a2b1-c2f6-4b7f-a768-ba20fbd2582d)
 
 
